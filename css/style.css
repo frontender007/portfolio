@@ -5,11 +5,12 @@ body
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
+    background-color: #E4F9F5;
 }
 
 .top-container
 {
-    background-color: #E4F9F5;
+    
     position: relative;
     
 }
@@ -124,7 +125,7 @@ div
 
 hr 
 {
-    border: dotted #E4F6F6 14px;
+    border: dotted #da387d 18px;
     border-bottom: none;
     width: 10%;
 }
@@ -180,7 +181,7 @@ p
 {
     content: '"';
     font-size: 7.625rem;
-    color: #EAF6F6;
+    color: #333;
     font-weight: bold;
     font-family: pacifico, cursive;
     padding: 50px;
